@@ -1,3 +1,5 @@
 title: The Pensieve
 description: The Maersk observability platform
 remote-theme: cotes2020/jekyll-theme-chirpy
+
+theme: jekyll-theme-slate
